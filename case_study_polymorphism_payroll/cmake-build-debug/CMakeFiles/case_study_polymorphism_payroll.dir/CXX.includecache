@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/case_study_polymorphism_payroll/Employee.h
+string
+-
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/case_study_polymorphism_payroll/SalariedEmployee.h
+Employee.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/case_study_polymorphism_payroll/Employee.h
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/case_study_polymorphism_payroll/disEmployee.h
+Employee.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/case_study_polymorphism_payroll/Employee.h
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/case_study_polymorphism_payroll/main.cpp
+disEmployee.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/case_study_polymorphism_payroll/disEmployee.h
+Employee.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/case_study_polymorphism_payroll/Employee.h
+SalariedEmployee.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/case_study_polymorphism_payroll/SalariedEmployee.h
+iostream
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/case_study_polymorphism_payroll/iostream
+vector
+-
+

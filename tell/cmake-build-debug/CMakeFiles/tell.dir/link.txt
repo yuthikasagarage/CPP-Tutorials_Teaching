@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tell.dir/main.cpp.o  -o tell 

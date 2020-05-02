@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/static_with_dynamic_memory_.dir/main.cpp.o CMakeFiles/static_with_dynamic_memory_.dir/employee.cpp.o  -o static_with_dynamic_memory_ 

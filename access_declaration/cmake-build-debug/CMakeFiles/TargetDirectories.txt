@@ -1,0 +1,3 @@
+/home/yuthika/Desktop/Cplusplus-advanced/access_declaration/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yuthika/Desktop/Cplusplus-advanced/access_declaration/cmake-build-debug/CMakeFiles/access_declaration.dir
+/home/yuthika/Desktop/Cplusplus-advanced/access_declaration/cmake-build-debug/CMakeFiles/edit_cache.dir

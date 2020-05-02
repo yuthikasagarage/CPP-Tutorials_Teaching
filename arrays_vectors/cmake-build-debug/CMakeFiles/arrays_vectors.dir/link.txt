@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/arrays_vectors.dir/main.cpp.o  -o arrays_vectors 

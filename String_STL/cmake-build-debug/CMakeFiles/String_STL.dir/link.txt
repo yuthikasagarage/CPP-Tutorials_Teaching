@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/String_STL.dir/main.cpp.o  -o String_STL 

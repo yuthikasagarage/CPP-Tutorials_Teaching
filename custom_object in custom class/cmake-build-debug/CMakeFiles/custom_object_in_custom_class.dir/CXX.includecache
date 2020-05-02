@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/custom_object in custom class/date.h
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/custom_object in custom class/employee.h
+date.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/custom_object in custom class/date.h
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/custom_object in custom class/main.cpp
+iostream
+-
+date.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/custom_object in custom class/date.h
+employee.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/custom_object in custom class/employee.h
+

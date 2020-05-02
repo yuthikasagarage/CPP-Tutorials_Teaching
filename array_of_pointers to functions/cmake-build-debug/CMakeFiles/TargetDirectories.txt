@@ -1,0 +1,3 @@
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/array_of_pointers to functions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/array_of_pointers to functions/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/array_of_pointers to functions/cmake-build-debug/CMakeFiles/array_of_pointers_to_functions.dir

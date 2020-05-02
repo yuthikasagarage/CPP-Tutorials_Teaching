@@ -1,0 +1,3 @@
+/home/yuthika/Desktop/Cplusplus-advanced/virtual_functions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yuthika/Desktop/Cplusplus-advanced/virtual_functions/cmake-build-debug/CMakeFiles/virtual_functions.dir
+/home/yuthika/Desktop/Cplusplus-advanced/virtual_functions/cmake-build-debug/CMakeFiles/edit_cache.dir

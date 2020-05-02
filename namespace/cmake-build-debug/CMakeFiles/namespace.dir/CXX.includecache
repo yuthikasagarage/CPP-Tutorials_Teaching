@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/namespace/file1x.h
+iostream
+-
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/namespace/file2x.h
+iostream
+-
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/namespace/main.cpp
+file1x.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/namespace/file1x.h
+file2x.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/namespace/file2x.h
+

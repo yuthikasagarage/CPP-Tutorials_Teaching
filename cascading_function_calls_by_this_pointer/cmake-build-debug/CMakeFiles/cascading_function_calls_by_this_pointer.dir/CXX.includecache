@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/cascading_function_calls_by_this_pointer/main.cpp
+time.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/cascading_function_calls_by_this_pointer/time.h
+iostream
+-
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/cascading_function_calls_by_this_pointer/time.h
+

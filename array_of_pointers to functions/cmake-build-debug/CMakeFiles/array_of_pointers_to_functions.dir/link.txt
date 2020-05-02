@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/array_of_pointers_to_functions.dir/main.cpp.o  -o array_of_pointers_to_functions 

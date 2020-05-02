@@ -1,0 +1,4 @@
+/home/yuthika/clion-2019.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/yuthika/Desktop/Cplusplus-advanced/get_pull/pre_processor_directives
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/yuthika/Desktop/Cplusplus-advanced/get_pull/pre_processor_directives/cmake-build-debug

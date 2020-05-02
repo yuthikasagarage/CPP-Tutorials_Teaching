@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/case_study_polymorphism_payroll.dir/main.cpp.o CMakeFiles/case_study_polymorphism_payroll.dir/Employee.cpp.o CMakeFiles/case_study_polymorphism_payroll.dir/SalariedEmployee.cpp.o CMakeFiles/case_study_polymorphism_payroll.dir/disEmployee.cpp.o  -o case_study_polymorphism_payroll 

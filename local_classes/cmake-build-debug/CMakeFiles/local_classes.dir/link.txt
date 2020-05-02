@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/local_classes.dir/main.cpp.o  -o local_classes 

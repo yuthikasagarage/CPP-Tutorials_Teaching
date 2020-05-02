@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/queue_adapter_class_stl.dir/main.cpp.o  -o queue_adapter_class_stl 

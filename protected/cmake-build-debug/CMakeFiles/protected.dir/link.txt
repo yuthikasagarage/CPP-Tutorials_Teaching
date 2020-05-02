@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/protected.dir/main.cpp.o  -o protected 

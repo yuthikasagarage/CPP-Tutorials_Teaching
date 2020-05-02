@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/multiple_inheritance.dir/main.cpp.o  -o multiple_inheritance 

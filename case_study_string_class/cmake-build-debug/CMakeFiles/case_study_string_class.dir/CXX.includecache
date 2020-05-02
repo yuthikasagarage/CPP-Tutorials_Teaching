@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/case_study_string_class/String.h
+iostream
+-
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/case_study_string_class/main.cpp
+istream
+-
+String.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/case_study_string_class/String.h
+

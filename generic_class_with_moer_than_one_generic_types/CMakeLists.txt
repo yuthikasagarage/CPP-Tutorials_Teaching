@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(generic_class_with_moer_than_one_generic_types)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(generic_class_with_moer_than_one_generic_types main.cpp)

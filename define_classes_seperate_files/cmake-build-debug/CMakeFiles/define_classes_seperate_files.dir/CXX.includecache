@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/define_classes_seperate_files/class1.cpp
+class1.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/define_classes_seperate_files/class1.h
+iostream
+-
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/define_classes_seperate_files/class1.h
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/define_classes_seperate_files/main.cpp
+class1.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/define_classes_seperate_files/class1.h
+

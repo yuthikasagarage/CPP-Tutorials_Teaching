@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/commision_employee.dir/main.cpp.o CMakeFiles/commision_employee.dir/CommissionEmployee.cpp.o CMakeFiles/commision_employee.dir/BaseplusCommission_employee.cpp.o  -o commision_employee 

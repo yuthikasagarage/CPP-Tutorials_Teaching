@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/read_line.dir/main.cpp.o  -o read_line 

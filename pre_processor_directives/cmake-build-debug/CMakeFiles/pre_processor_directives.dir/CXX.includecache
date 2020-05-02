@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuthika/Desktop/Cplusplus-advanced/get_pull/pre_processor_directives/main.cpp
+person_class.cpp
+/home/yuthika/Desktop/Cplusplus-advanced/get_pull/pre_processor_directives/person_class.cpp
+
+/home/yuthika/Desktop/Cplusplus-advanced/get_pull/pre_processor_directives/person_class.cpp
+iostream
+-
+

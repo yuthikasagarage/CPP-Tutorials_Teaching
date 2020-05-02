@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/stack_adapter_clas_stl.dir/main.cpp.o  -o stack_adapter_clas_stl 

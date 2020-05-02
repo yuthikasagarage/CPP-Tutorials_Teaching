@@ -1,0 +1,3 @@
+/home/yuthika/Desktop/Cplusplus-advanced/inherted_attributes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yuthika/Desktop/Cplusplus-advanced/inherted_attributes/cmake-build-debug/CMakeFiles/inherted_attributes.dir
+/home/yuthika/Desktop/Cplusplus-advanced/inherted_attributes/cmake-build-debug/CMakeFiles/edit_cache.dir

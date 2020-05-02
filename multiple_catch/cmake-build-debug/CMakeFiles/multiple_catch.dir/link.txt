@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/multiple_catch.dir/main.cpp.o  -o multiple_catch 

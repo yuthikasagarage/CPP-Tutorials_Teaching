@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/pass_arrays_to_functions.dir/main.cpp.o  -o pass_arrays_to_functions 

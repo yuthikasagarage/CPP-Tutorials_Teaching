@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/static_member_functions.dir/main.cpp.o  -o static_member_functions 

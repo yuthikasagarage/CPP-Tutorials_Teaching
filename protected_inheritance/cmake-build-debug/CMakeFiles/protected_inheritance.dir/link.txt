@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/protected_inheritance.dir/main.cpp.o  -o protected_inheritance 

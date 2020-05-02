@@ -1,0 +1,3 @@
+/home/yuthika/Desktop/Cplusplus-advanced/read_TRUE_FALSE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yuthika/Desktop/Cplusplus-advanced/read_TRUE_FALSE/cmake-build-debug/CMakeFiles/read_TRUE_FALSE.dir
+/home/yuthika/Desktop/Cplusplus-advanced/read_TRUE_FALSE/cmake-build-debug/CMakeFiles/edit_cache.dir

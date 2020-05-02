@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/explicit_conversion_constructor/Array.cpp
+Array.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/explicit_conversion_constructor/Array.h
+iomanip
+-
+cstdlib
+-
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/explicit_conversion_constructor/Array.h
+iostream
+-
+

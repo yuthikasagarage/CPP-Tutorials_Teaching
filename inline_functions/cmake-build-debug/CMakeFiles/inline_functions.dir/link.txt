@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/inline_functions.dir/main.cpp.o  -o inline_functions 

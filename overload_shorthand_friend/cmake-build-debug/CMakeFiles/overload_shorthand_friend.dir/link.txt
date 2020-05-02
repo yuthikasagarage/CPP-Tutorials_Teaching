@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/overload_shorthand_friend.dir/main.cpp.o  -o overload_shorthand_friend 

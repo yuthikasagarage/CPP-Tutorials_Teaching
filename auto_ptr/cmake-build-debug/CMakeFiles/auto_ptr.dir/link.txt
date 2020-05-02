@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/auto_ptr.dir/main.cpp.o CMakeFiles/auto_ptr.dir/integer.cpp.o  -o auto_ptr 

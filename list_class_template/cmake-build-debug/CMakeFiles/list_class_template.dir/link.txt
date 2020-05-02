@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/list_class_template.dir/main.cpp.o  -o list_class_template 

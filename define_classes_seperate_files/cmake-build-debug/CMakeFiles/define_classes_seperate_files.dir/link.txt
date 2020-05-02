@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/define_classes_seperate_files.dir/main.cpp.o CMakeFiles/define_classes_seperate_files.dir/class1.cpp.o  -o define_classes_seperate_files 
