@@ -1,0 +1,4 @@
+/home/yuthika/clion-2019.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/cascading_function_calls_by_this_pointer
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/cascading_function_calls_by_this_pointer/cmake-build-debug

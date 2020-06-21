@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/static.dir/main.cpp.o  -o static 

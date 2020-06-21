@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/static_with_dynamic_memory'/employee.cpp
+iostream
+-
+cstring
+-
+employee.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/static_with_dynamic_memory'/employee.h
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/static_with_dynamic_memory'/employee.h
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/static_with_dynamic_memory'/main.cpp
+iostream
+-
+employee.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/static_with_dynamic_memory'/employee.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/vector_manupilation.dir/main.cpp.o  -o vector_manupilation 

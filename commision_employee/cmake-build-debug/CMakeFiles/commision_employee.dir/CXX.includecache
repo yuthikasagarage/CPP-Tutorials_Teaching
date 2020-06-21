@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/commision_employee/BaseplusCommission_employee.h
+CommissionEmployee.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/commision_employee/CommissionEmployee.h
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/commision_employee/CommissionEmployee.h
+string
+-
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/commision_employee/main.cpp
+iostream
+-
+iomanip
+-
+CommissionEmployee.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/commision_employee/CommissionEmployee.h
+BaseplusCommission_employee.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/commision_employee/BaseplusCommission_employee.h
+

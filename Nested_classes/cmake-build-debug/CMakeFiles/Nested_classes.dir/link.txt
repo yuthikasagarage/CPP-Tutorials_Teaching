@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Nested_classes.dir/main.cpp.o  -o Nested_classes 

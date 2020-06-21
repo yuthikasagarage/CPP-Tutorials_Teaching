@@ -1,0 +1,3 @@
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/passing_functions_to _fuinctions_as pointer_ selection_sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/passing_functions_to _fuinctions_as pointer_ selection_sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/passing_functions_to _fuinctions_as pointer_ selection_sort/cmake-build-debug/CMakeFiles/passing_functions_to__fuinctions_as_pointer__selection_sort.dir

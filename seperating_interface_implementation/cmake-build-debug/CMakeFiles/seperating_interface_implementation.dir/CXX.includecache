@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/seperating_interface_implementation/gradebook.cpp
+gradebook.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/seperating_interface_implementation/gradebook.h
+cmath
+-
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/seperating_interface_implementation/gradebook.h
+iostream
+-
+iomanip
+-
+

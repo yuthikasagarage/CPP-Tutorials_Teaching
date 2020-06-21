@@ -1,0 +1,3 @@
+/home/yuthika/Desktop/Cplusplus-advanced/destructor2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yuthika/Desktop/Cplusplus-advanced/destructor2/cmake-build-debug/CMakeFiles/destructor2.dir
+/home/yuthika/Desktop/Cplusplus-advanced/destructor2/cmake-build-debug/CMakeFiles/edit_cache.dir

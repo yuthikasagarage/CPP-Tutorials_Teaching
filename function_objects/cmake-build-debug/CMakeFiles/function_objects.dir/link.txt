@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/function_objects.dir/main.cpp.o  -o function_objects 

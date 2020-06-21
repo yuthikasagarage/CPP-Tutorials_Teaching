@@ -1,0 +1,3 @@
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/new_throwing_bad_alloc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/new_throwing_bad_alloc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/new_throwing_bad_alloc/cmake-build-debug/CMakeFiles/new_throwing_bad_alloc.dir

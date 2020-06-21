@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/vector_class_templates.dir/main.cpp.o  -o vector_class_templates 

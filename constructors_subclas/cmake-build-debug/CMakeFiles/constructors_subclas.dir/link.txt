@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/constructors_subclas.dir/main.cpp.o  -o constructors_subclas 

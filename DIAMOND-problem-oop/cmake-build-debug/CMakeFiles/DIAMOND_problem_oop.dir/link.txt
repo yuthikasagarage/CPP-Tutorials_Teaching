@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DIAMOND_problem_oop.dir/main.cpp.o  -o DIAMOND_problem_oop 

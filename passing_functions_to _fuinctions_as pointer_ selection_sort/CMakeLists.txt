@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.16)
+project(passing_functions_to__fuinctions_as_pointer__selection_sort)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(passing_functions_to__fuinctions_as_pointer__selection_sort main.cpp)

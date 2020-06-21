@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/destructor2.dir/main.cpp.o  -o destructor2 

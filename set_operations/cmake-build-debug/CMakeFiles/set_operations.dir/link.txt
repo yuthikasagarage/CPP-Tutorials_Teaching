@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/set_operations.dir/main.cpp.o  -o set_operations 

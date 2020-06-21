@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/private_inheritance.dir/main.cpp.o  -o private_inheritance 

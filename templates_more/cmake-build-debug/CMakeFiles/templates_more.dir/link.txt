@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/templates_more.dir/main.cpp.o  -o templates_more 

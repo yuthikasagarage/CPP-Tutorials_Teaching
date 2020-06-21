@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/read_TRUE_FALSE.dir/main.cpp.o  -o read_TRUE_FALSE 

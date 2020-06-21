@@ -1,0 +1,3 @@
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/two_generic_types/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/two_generic_types/cmake-build-debug/CMakeFiles/two_generic_types.dir
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/two_generic_types/cmake-build-debug/CMakeFiles/edit_cache.dir

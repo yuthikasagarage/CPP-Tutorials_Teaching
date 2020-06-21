@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/two_generic_types.dir/main.cpp.o  -o two_generic_types 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/throwing_exception_from_functions.dir/main.cpp.o  -o throwing_exception_from_functions 

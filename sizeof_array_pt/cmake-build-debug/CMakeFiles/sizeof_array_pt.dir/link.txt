@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/sizeof_array_pt.dir/main.cpp.o  -o sizeof_array_pt 

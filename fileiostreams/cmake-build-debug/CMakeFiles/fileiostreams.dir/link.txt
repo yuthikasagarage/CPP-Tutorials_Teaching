@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/fileiostreams.dir/main.cpp.o  -o fileiostreams 

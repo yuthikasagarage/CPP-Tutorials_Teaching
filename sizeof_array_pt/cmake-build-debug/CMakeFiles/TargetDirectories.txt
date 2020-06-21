@@ -1,0 +1,3 @@
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/sizeof_array_pt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/sizeof_array_pt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/sizeof_array_pt/cmake-build-debug/CMakeFiles/sizeof_array_pt.dir

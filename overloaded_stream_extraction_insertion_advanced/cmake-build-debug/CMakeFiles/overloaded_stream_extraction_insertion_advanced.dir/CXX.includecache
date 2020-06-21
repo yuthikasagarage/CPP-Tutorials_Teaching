@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/overloaded_stream_extraction_insertion_advanced/PhoneNUmber.cpp
+iomanip
+-
+PhoneNUmber.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/overloaded_stream_extraction_insertion_advanced/PhoneNUmber.h
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/overloaded_stream_extraction_insertion_advanced/PhoneNUmber.h
+iostream
+-
+string
+-
+

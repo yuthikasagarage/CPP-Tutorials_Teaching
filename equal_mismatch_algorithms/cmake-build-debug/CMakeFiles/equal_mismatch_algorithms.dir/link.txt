@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/equal_mismatch_algorithms.dir/main.cpp.o  -o equal_mismatch_algorithms 

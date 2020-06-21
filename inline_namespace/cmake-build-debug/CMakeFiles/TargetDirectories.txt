@@ -1,0 +1,3 @@
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/inline_namespace/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/inline_namespace/cmake-build-debug/CMakeFiles/inline_namespace.dir
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/inline_namespace/cmake-build-debug/CMakeFiles/edit_cache.dir

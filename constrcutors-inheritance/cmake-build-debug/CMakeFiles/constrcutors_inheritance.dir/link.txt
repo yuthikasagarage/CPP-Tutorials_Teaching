@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/constrcutors_inheritance.dir/main.cpp.o  -o constrcutors_inheritance 

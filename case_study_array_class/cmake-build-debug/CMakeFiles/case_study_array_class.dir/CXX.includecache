@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/case_study_array_class/Array.cpp
+Array.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/case_study_array_class/Array.h
+iomanip
+-
+cstdlib
+-
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/case_study_array_class/Array.h
+iostream
+-
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/case_study_array_class/main.cpp
+iostream
+-
+Array.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/case_study_array_class/Array.h
+

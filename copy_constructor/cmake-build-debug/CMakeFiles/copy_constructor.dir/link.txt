@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/copy_constructor.dir/main.cpp.o  -o copy_constructor 

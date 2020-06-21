@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/static_array.dir/main.cpp.o  -o static_array 

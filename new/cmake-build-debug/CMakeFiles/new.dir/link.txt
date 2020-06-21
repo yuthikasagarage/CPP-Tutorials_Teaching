@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/new.dir/main.cpp.o CMakeFiles/new.dir/Entity.cpp.o  -o new 

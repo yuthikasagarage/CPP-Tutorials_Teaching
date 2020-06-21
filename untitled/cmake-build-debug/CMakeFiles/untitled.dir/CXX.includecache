@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/untitled/main.cpp
+iostream
+-
+stacker.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/untitled/stacker.h
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/untitled/stacker.cpp
+stacker.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/untitled/stacker.h
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/untitled/stacker.h
+

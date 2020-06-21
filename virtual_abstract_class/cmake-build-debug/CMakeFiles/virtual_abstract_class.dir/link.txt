@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/virtual_abstract_class.dir/main.cpp.o  -o virtual_abstract_class 

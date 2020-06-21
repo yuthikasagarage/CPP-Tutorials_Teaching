@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/custom_object_in_custom_class.dir/main.cpp.o CMakeFiles/custom_object_in_custom_class.dir/date.cpp.o CMakeFiles/custom_object_in_custom_class.dir/employee.cpp.o  -o custom_object_in_custom_class 

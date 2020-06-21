@@ -1,0 +1,3 @@
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/custom_object in custom class/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/custom_object in custom class/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/custom_object in custom class/cmake-build-debug/CMakeFiles/custom_object_in_custom_class.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/inherted_attributes.dir/main.cpp.o  -o inherted_attributes 

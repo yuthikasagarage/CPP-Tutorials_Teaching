@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/auto_ptr/integer.h
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/auto_ptr/main.cpp
+iostream
+-
+integer.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/auto_ptr/integer.h
+memory
+-
+

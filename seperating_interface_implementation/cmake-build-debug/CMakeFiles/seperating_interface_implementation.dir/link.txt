@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/seperating_interface_implementation.dir/main.cpp.o CMakeFiles/seperating_interface_implementation.dir/gradebook.cpp.o  -o seperating_interface_implementation 

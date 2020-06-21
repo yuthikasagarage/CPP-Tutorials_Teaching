@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/date_case_study/Date.cpp
+iostream
+-
+Date.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/date_case_study/Date.h
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/date_case_study/Date.h
+iostream
+-
+
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/date_case_study/main.cpp
+iostream
+-
+Date.h
+/home/yuthika/Desktop/Tutorials_quarantine/Cplusplus-advanced/date_case_study/Date.h
+

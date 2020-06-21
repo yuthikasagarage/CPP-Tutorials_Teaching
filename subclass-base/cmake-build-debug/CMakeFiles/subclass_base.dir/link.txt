@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/subclass_base.dir/main.cpp.o  -o subclass_base 

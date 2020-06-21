@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.16)
+project(overloaded_stream_extraction_insertion_advanced)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(overloaded_stream_extraction_insertion_advanced main.cpp PhoneNUmber.cpp PhoneNUmber.h)
