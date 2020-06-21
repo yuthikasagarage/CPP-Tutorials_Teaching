@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/future_promise.dir/main.cpp.o  -o future_promise  -lpthread 

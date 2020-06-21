@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/producer_consumer.dir/main.cpp.o  -o producer_consumer  -lpthread 

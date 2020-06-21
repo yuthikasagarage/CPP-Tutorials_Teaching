@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/try_lock.dir/main.cpp.o  -o try_lock  -lpthread 
