@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuthika/Desktop/Tutorials_quarantine/cplusplus_concurrency/async/main.cpp
+iostream
+-
+thread
+-
+chrono
+-
+algorithm
+-
+mutex
+-
+condition_variable
+-
+future
+-
+

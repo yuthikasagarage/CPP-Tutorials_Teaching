@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/types_of_threads.dir/main.cpp.o  -o types_of_threads  -lpthread 

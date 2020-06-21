@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuthika/Desktop/Tutorials_quarantine/cplusplus_concurrency/conditional_threading/main.cpp
+iostream
+-
+thread
+-
+chrono
+-
+algorithm
+-
+mutex
+-
+condition_variable
+-
+

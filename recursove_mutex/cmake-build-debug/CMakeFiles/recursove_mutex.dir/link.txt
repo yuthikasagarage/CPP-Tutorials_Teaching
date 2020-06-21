@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/recursove_mutex.dir/main.cpp.o  -o recursove_mutex  -lpthread 

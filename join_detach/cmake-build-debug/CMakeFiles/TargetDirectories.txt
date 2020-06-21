@@ -1,0 +1,3 @@
+/home/yuthika/Desktop/Tutorials_quarantine/cplusplus_concurrency/join_detach/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yuthika/Desktop/Tutorials_quarantine/cplusplus_concurrency/join_detach/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yuthika/Desktop/Tutorials_quarantine/cplusplus_concurrency/join_detach/cmake-build-debug/CMakeFiles/join_detach.dir
